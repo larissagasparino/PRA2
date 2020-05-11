@@ -6,7 +6,7 @@ public class Course(int grade , string creationdate , string title , string esta
      mEstablishment = establishment;
 
     }
- public int getGrade() {
+    public int getGrade() {
         return mGrade;
     }
 
