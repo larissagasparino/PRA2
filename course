@@ -1,0 +1,39 @@
+package com.course;
+public class Course(int grade , string creationdate , string title , string establishment){
+     mGrade = grade;
+     mCreationdate = creationdate;
+     mTitle = title;
+     mEstablishment = establishment;
+
+    }
+ public int getGrade() {
+        return mGrade;
+    }
+
+    public void setGrade(int Grade) {
+        mGrade = grade;
+    }
+
+    public String getCreationdate() {
+        return mCreationdate;
+    }
+
+    public void setCreationdate(String creationdate) {
+        mCreationdate = creationdate;
+    }
+
+    public String getTitle() {
+        return mTitle;
+    }
+
+    public void setTitle(String Title) {
+        mTitle = title;
+    }
+
+    public String getEstablishment() {
+        return mEstablishment;
+    }
+
+    public void setEstablishment(string Establishment) {
+        mEstablishment = establishment;
+    }
